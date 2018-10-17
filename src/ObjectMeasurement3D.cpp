@@ -174,8 +174,8 @@ public:
 		std::cout << "convex points: " << _convex_points->size() << std::endl;
 		std::cout << "convex facets: " << _polygons.size() << std::endl << std::endl;
 
-		std::cout << "Measure the next edge (shorter) : Press Ctrl + Down" << std::endl;
-		std::cout << "Measure the last edge (longer) : Press Ctrl + Up" << std::endl;
+		std::cout << "Measure the next edge (shorter) : Press Ctrl + Up" << std::endl;
+		std::cout << "Measure the last edge (longer) : Press Ctrl + Down" << std::endl;
 		std::cout << "Show all the edges: Press Ctrl + A" << std::endl;
 		std::cout << "Reset: Press Shift + Ctrl + R" << std::endl;
 
@@ -409,8 +409,8 @@ public:
 		std::cout << "concave points: " << _concave_points->size() << std::endl;
 		std::cout << "concave facets: " << _polygons.size() << std::endl << std::endl;
 
-		std::cout << "Measure the next edge (shorter) : Press Ctrl + Down" << std::endl;
-		std::cout << "Measure the last edge (longer) : Press Ctrl + Up" << std::endl;
+		std::cout << "Measure the next edge (shorter) : Press Ctrl + Up" << std::endl;
+		std::cout << "Measure the last edge (longer) : Press Ctrl + Down" << std::endl;
 		std::cout << "Show all the edges: Press Ctrl + A" << std::endl;
 		std::cout << "Reset: Press Shift + Ctrl + R" << std::endl;
 
