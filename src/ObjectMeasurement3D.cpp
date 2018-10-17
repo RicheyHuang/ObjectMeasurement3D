@@ -1131,8 +1131,8 @@ public:
 
 		std::cout << "Measure the edges by AABB: Press Ctrl + A" << std::endl;
 		std::cout << "Measure the edges by OBB: Press Ctrl + O" << std::endl;
-		std::cout << "Measure the next convex edge (shorter) : Press Alt + Down" << std::endl;
-		std::cout << "Measure the last convex edge (longer) : Press Alt + Up" << std::endl;
+		std::cout << "Measure the next convex edge (shorter) : Press Alt + Up" << std::endl;
+		std::cout << "Measure the last convex edge (longer) : Press Alt + Down" << std::endl;
 		std::cout << "Show all the convex edges: Press Ctrl + V" << std::endl;
 		std::cout << "Measure the next concave edge (shorter) : Press Ctrl + Up" << std::endl;
 		std::cout << "Measure the last concave edge (longer) : Press Ctrl + Down" << std::endl;
